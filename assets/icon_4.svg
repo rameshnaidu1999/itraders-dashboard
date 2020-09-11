@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="icon_4" transform="translate(-758 -213)">
+    <circle id="Ellipse_1203" data-name="Ellipse 1203" cx="23" cy="23" r="23" transform="translate(758 213)" fill="#4d4b4b"/>
+    <g id="post" transform="translate(771.422 224)">
+      <path id="Path_8057" data-name="Path 8057" d="M353.4,104.977h-6.746L353.4,106.9Zm0,0" transform="translate(-333.088 -100.457)" fill="#fff"/>
+      <path id="Path_8058" data-name="Path 8058" d="M421.292,223.328V210.66L417.6,223.328Zm0,0" transform="translate(-400.982 -201.59)" fill="#fff"/>
+      <path id="Path_8059" data-name="Path 8059" d="M19.947,7.236,9.986,4.34l-.007-.006V7.027a1.345,1.345,0,0,1-2.69,0V5.239a.43.43,0,0,1,.861,0V7.027a.484.484,0,1,0,.968,0V4.085L7.461,3.606l.042,0a.431.431,0,0,0,.432-.43V1.328a.486.486,0,0,1,.5-.467h.182a.492.492,0,0,1,.5.467V4.084l.02.006.841.244V1.328A1.353,1.353,0,0,0,8.614,0H8.432A1.348,1.348,0,0,0,7.074,1.328V3.177a.428.428,0,0,0,.234.384L3.4,2.431-1.422,18.983l16.549,4.805Zm0,0" fill="#fff"/>
+    </g>
+  </g>
+</svg>
